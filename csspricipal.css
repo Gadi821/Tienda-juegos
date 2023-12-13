@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+#logo{
+    height: 100px;
+    width: 100px;
+}
+#logo2{
+    height: 200px;
+    width: 200px;
+}
+#navbar1{
+    background-color: #001d3d;
+}
+#navbar2{
+    background-color: #001d3d;
+    font-size: 20px;
+    color: #ffd60a;
+}
+body{
+    background-color: #003566;
+}
+#despro{
+    background-color: #ffc300;
+}
+#redes{
+    height: 50px;
+    width: 50px;
+}
+#cuerpo{
+    margin: 60px;
+    background-color: #003566;
+}
+#btnlog{
+    margin: 5px;
+}
+.btn{
+    background-color: #003566;
+    color: #ffd60a;
+}
+
+#imagprod{
+    width: 350px;
+    height: 450px;
+}
+.card{
+    background-color: lightblue;
+    width: 22rem;
+    margin: 10px;
+}
+#btnnavbar{
+    background-color: #ffd60a;
+}
+#titulo{
+    align-items: center;
+    color: #ffd60a;
+}
+#imagprod2{
+    width: 250px;
+    height: 350px;
+}

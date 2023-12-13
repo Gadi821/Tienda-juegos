@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+label{
+    color: #ffd60a;
+}
+#formulario{
+    margin: 2px;
+}
+#logmain{
+    background-image: url("https://i.pinimg.com/originals/2f/db/80/2fdb80a1219c99ea0c59d82aede974e9.jpg");
+    background-size:cover;
+}
+#formulario2{
+    margin: 2px;
+}
+#btnlog{
+    margin: 5px;
+}
+.btn{
+    background-color: #003566;
+    color: #ffd60a;
+}
+#logo2{
+    height: 200px;
+    width: 200px;
+}
+#cuerpo{
+    margin: 60px;
+    background-color: #003566;
+    border-radius: 2%;
+}
+#navbar2{
+    background-color: #001d3d;
+    font-size: 20px;
+    color: #ffd60a;
+}
+#redes{
+    height: 50px;
+    width: 50px;
+}
